@@ -2,7 +2,7 @@ Este site foi desenvolvido no 2º ano do curso técnico de Desenvolvimento de Si
 
 Caso queira testar o site:
 
-1º: Digite os comandos "pip install flask", "pip install pymysql" e "pip install flask reportlab pymysql" no terminal
+1º: Digite o comando "pip install flask reportlab pymysql" no terminal
 2º: Rode o arquivo app.py e copie e cole no navegador "http://127.0.0.1:5000"
 3º: Altere na barra de pesquisa "http://127.0.0.1:5000/pagInicio"
 4º: Vá para a página Usuários na navbar
