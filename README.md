@@ -14,6 +14,6 @@ Caso queira testar o site:
 Avisos: 
 - Rode o arquivo bancoDeDados.sql no terminal pelo MySQL server ou no MySQL Workbench.
 - Altere a senha do banco de dados no arquivo app.py na linha 22.
-- As contas de usuário comum e admnistrador tem funcionalidades diferentes. 
+- As contas de usuário comum e administrador tem funcionalidades diferentes. 
 - Os passos acima são necessários para que a criptografia da senha funcione corretamente.
 - O site não é responsível.
